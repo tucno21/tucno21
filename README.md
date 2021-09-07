@@ -43,41 +43,41 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
 
-## 📘 Mis mejores proyectos de código abierto
+<!-- ## 📘 Mis mejores proyectos de código abierto -->
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
   <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
-</p>
+</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+</p> -->
 
-## 📕 Top projects I've contributed to
+<!-- ## 📕 Top projects I've contributed to -->
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
   <a href="https://github.com/DXsmiley/mathbot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DXsmiley&repo=mathbot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="DXsmiley/mathbot"></a>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
   <a href="https://github.com/nextcord/nextcord"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
-</p>
+</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
+</p> -->
 
-## 🔥 Streak stats
+## 🔥 Estadísticas
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
