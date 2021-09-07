@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">https://readme-typing-svg.herokuapp.com/?color=2F37EE&lines=Desarrollador+web+front+y+backend</a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2F37EE&lines=Desarrollador+web+front+y+backend">
+</p>
 
 <!-- Social icons section -->
 <p align="center">
